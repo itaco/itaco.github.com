@@ -2,7 +2,7 @@
 
 body { color: #333; font: normal 13px/1.6em georgia, times new roman, times, serif; background: #020203; word-spacing: 0.1em; }
 
-#bg { background: url(images/bg.jpg) no-repeat 0% 0%; position: absolute; width: 760px; height: 520px; left: 50%; top: 50%; margin-left: -380px; margin-top: -260px; }
+#bg { background: url(images/bg.png) no-repeat 0% 0%; position: absolute; width: 760px; height: 520px; left: 50%; top: 50%; margin-left: -380px; margin-top: -260px; }
 
 #content { margin: 15px 0 0 60px; height: 420px; width: 640px; overflow: auto; }
 #contentText { padding: 20px 190px 8px 20px; }
